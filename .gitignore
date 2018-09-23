@@ -1,0 +1,7 @@
+db.sqlite3
+geckodriver.log
+virtualenv
+venv
+.idea
+__pycache__
+*.pyc
